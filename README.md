@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Evan</h1>
-- 🌱 I’m currently learning HTML, CSS, and JS
+<h1 align="center">hi</h1>
+I’m currently learning HTML, CSS, and JS
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=evantesecond&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
