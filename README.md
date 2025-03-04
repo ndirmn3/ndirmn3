@@ -1,4 +1,4 @@
-<h1 align="center">hi</h1>
+<h1 align="center">hello</h1>
 I’m currently learning HTML, CSS, and JS
 
 <p align="center">
