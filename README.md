@@ -32,11 +32,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/EvanTeSecond/EvanTeSecond/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
