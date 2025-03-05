@@ -1,4 +1,4 @@
-<p align="center">Hello there. I'm just a random student.</p>
+<p align="center">Hi. I'm just a random student.</p>
 
 ###
 
@@ -22,6 +22,8 @@
 </div>
 
 ###
+
+                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 <p align="center">Profile Views:</p>
 
