@@ -1,4 +1,4 @@
-<p align="center">Hello There</p>
+<p align="center">Hello there. I'm just a random student.</p>
 
 ###
 
