@@ -3,8 +3,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvanTeSecond&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvanTeSecond&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EvanTeSecond&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvanTeSecond&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evantesecond" alt="evantesecond" /></a> </p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evantesecond&" alt="evantesecond" /></p>
 </div>
 
 ###
@@ -23,12 +25,6 @@
 
 ###
 
-<p align="center">Profile Views:</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/EvanTeSecond/count.svg?"  />
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=evantesecond&label=Profile%20views&color=0e75b6&style=flat" alt="evantesecond" /> </p>
 
 ###
