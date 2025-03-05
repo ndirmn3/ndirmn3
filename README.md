@@ -1,5 +1,6 @@
 <h1 align="center">hello</h1>
-I’m currently learning HTML, CSS, and JS
+<br>
+<h4 align="center">I’m currently learning HTML, CSS, and JS</h4>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=evantesecond&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
