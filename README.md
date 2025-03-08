@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EvanTeSecond&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvanTeSecond&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="Languages"  />
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evantesecond" alt="Trophies" /></a> </p>
+  <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=evantesecond" alt="Trophies" /> </p>
 </div>
 
 ###
@@ -24,6 +24,6 @@
 
 ###
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=evantesecond&label=Profile%20views&color=0e75b6&style=flat?color=82d2f0&labelColor=0d3b72&style=for-the-badge" alt="Profile Views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=evantesecond&?color=82d2f0&labelColor=0d3b72&style=for-the-badge" alt="Profile Views" /> </p>
 
 ###
