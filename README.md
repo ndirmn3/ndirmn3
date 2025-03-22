@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I’m currently learning HTML, JS, and CSS.</p>
+<p align="center">I’m currently coding in HTML, JS, and CSS.</p>
 
 ###
 
